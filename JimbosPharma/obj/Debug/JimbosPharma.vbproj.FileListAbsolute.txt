@@ -1,0 +1,138 @@
+c:\users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\bin\Debug\JimbosPharma.exe.config
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\bin\Debug\JimbosPharma.exe
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\bin\Debug\JimbosPharma.pdb
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\bin\Debug\JimbosPharma.xml
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\bin\Debug\Guna.UI2.dll
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.Form1.resources
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.loginform.resources
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.Resources.resources
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.vbproj.GenerateResource.Cache
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.exe
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.xml
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.pdb
+c:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.dashboard.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.vbprojResolveAssemblyReference.cache
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmcategory.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\bin\Debug\JimbosPharma.exe.manifest
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\bin\Debug\JimbosPharma.application
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.exe.manifest
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.application
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmuser.resources
+C:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmproduct.resources
+C:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmproductlist.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.cashier.resources
+C:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmcategorylist.resources
+C:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmmaintenance.resources
+C:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmstockin.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmbrandlist.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmbrand.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmgeneric.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmgenericlist.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmtype.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmtypelist.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmformulationlist.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmformulation.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmqty.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmsupplierlist.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmaddsupplier.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdashboard.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmcontactpers.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmsettle.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdosage.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdosagelist.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdelivery.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmvat.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdiscount.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdiscountcashier.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdailysales.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmrecords.resources
+C:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmstaffboard.resources
+C:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmchangepass.resources
+C:\Users\danmi\OneDrive\Documents\Visual Studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmlock.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmproductinquiry.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmstockadjustment.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.loadchart.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmSalesReport.resources
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\RdlCompile.cache
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\obj\Debug\RdlCompile.compiled
+C:\Users\danmi\onedrive\documents\visual studio 2013\Projects\JimbosPharma\JimbosPharma\bin\Debug\Report1.rdlc
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\DocCaresPharmacy.exe.config
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\DocCaresPharmacy.exe.manifest
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\DocCaresPharmacy.application
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\DocCaresPharmacy.exe
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\DocCaresPharmacy.pdb
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\DocCaresPharmacy.xml
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\zxing.dll
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\zxing.presentation.dll
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\zxing.pdb
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\zxing.xml
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\zxing.presentation.pdb
+C:\Project\JimbosPharma\JimbosPharma\bin\Debug\zxing.presentation.xml
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.barcodepraactice.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.barcodepractice.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.cashier.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmadddelivery.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmbrand.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmbrandlist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmbrowsedelivery.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmcategorylist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.dashboard.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.Form1.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmcategory.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmchangepass.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdailysales.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdashboard.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdeliverylist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdiscount.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdiscountcashier.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdiscountmodif.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdosage.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmdosagelist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmformulationlist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmformulation.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmgeneric.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmgenericlist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmgenerikalist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frminventorylist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmlock.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmmaintenance.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmmodifsupplier.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmproduct.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmproductinquiry.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmproductlists.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmqty.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmrecords.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmrecordstaff.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmreporter.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmSalesReport.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmsettle.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmstaffboard.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmstaffsupplier.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmstockadjustment.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmstockin.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmsupplierlist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmtype.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmtypelist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmunit.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmunitlist.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmuser.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmvat.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmviewsupplie.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmviewuser.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.loadchart.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.loginform.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.Resources.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.practiceConnect.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.staffviewsupplier.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.vbproj.GenerateResource.Cache
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\RdlCompile.cache
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\RdlCompile.compiled
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\DocCaresPharmacy.exe.manifest
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\DocCaresPharmacy.application
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\DocCaresPharmacy.exe
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\DocCaresPharmacy.xml
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\DocCaresPharmacy.pdb
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.frmaddproduct.resources
+C:\Project\JimbosPharma\JimbosPharma\obj\Debug\JimbosPharma.vbprojResolveAssemblyReference.cache
